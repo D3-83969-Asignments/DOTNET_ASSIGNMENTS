@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DOTNET_Assignments\\DOTNET_ASSIGNMENTS\\Asignment01\\Assignment01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB7545F-CDD2-40F4-95F1-6470BAE3B1B7}|Question03\\Question03.csproj|d:\\dotnet_assignments\\dotnet_assignments\\asignment01\\assignment01\\question03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EB7545F-CDD2-40F4-95F1-6470BAE3B1B7}|Question03\\Question03.csproj|solutionrelative:question03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72700AE9-31BA-4F7A-85C8-4DB524E48B93}|Question02\\Question02.csproj|D:\\DOTNET_Assignments\\DOTNET_ASSIGNMENTS\\Asignment01\\Assignment01\\question02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72700AE9-31BA-4F7A-85C8-4DB524E48B93}|Question02\\Question02.csproj|solutionrelative:question02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DOTNET_Assignments\\DOTNET_ASSIGNMENTS\\Asignment01\\Assignment01\\Question02\\Program.cs",
+              "RelativeDocumentMoniker": "Question02\\Program.cs",
+              "ToolTip": "D:\\DOTNET_Assignments\\DOTNET_ASSIGNMENTS\\Asignment01\\Assignment01\\Question02\\Program.cs",
+              "RelativeToolTip": "Question02\\Program.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAswDEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T12:45:30.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DOTNET_Assignments\\DOTNET_ASSIGNMENTS\\Asignment01\\Assignment01\\Question03\\Program.cs",
+              "RelativeDocumentMoniker": "Question03\\Program.cs",
+              "ToolTip": "D:\\DOTNET_Assignments\\DOTNET_ASSIGNMENTS\\Asignment01\\Assignment01\\Question03\\Program.cs",
+              "RelativeToolTip": "Question03\\Program.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAgwCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T12:43:50.989Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

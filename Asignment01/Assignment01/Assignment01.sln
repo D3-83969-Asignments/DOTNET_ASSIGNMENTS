@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Question02", "Question02\Question02.csproj", "{72700AE9-31BA-4F7A-85C8-4DB524E48B93}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Question1", "Question1\Question1.csproj", "{20A70443-86FF-49F0-9816-59D53C70EE9C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Question03", "Question03\Question03.csproj", "{0EB7545F-CDD2-40F4-95F1-6470BAE3B1B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72700AE9-31BA-4F7A-85C8-4DB524E48B93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72700AE9-31BA-4F7A-85C8-4DB524E48B93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72700AE9-31BA-4F7A-85C8-4DB524E48B93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72700AE9-31BA-4F7A-85C8-4DB524E48B93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20A70443-86FF-49F0-9816-59D53C70EE9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20A70443-86FF-49F0-9816-59D53C70EE9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20A70443-86FF-49F0-9816-59D53C70EE9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20A70443-86FF-49F0-9816-59D53C70EE9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EB7545F-CDD2-40F4-95F1-6470BAE3B1B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EB7545F-CDD2-40F4-95F1-6470BAE3B1B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EB7545F-CDD2-40F4-95F1-6470BAE3B1B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EB7545F-CDD2-40F4-95F1-6470BAE3B1B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0CDB37A2-961B-4785-8F58-E24CEFB4C155}
+	EndGlobalSection
+EndGlobal

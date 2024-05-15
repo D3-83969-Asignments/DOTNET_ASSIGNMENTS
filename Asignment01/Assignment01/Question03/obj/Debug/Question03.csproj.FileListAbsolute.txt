@@ -1,0 +1,7 @@
+D:\DOTNET_Assignments\Asignment01\Assignment01\Question03\bin\Debug\Question03.exe.config
+D:\DOTNET_Assignments\Asignment01\Assignment01\Question03\bin\Debug\Question03.exe
+D:\DOTNET_Assignments\Asignment01\Assignment01\Question03\bin\Debug\Question03.pdb
+D:\DOTNET_Assignments\Asignment01\Assignment01\Question03\obj\Debug\Question03.csproj.AssemblyReference.cache
+D:\DOTNET_Assignments\Asignment01\Assignment01\Question03\obj\Debug\Question03.csproj.CoreCompileInputs.cache
+D:\DOTNET_Assignments\Asignment01\Assignment01\Question03\obj\Debug\Question03.exe
+D:\DOTNET_Assignments\Asignment01\Assignment01\Question03\obj\Debug\Question03.pdb
