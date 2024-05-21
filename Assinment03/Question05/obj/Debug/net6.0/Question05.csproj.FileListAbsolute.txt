@@ -1,0 +1,15 @@
+D:\DOTNET_Assignments\DOTNET_ASSIGNMENTS\Assinment03\Question05\bin\Debug\net6.0\Question05.exe
+D:\DOTNET_Assignments\DOTNET_ASSIGNMENTS\Assinment03\Question05\bin\Debug\net6.0\Question05.deps.json
+D:\DOTNET_Assignments\DOTNET_ASSIGNMENTS\Assinment03\Question05\bin\Debug\net6.0\Question05.runtimeconfig.json
+D:\DOTNET_Assignments\DOTNET_ASSIGNMENTS\Assinment03\Question05\bin\Debug\net6.0\Question05.dll
+D:\DOTNET_Assignments\DOTNET_ASSIGNMENTS\Assinment03\Question05\bin\Debug\net6.0\Question05.pdb
+D:\DOTNET_Assignments\DOTNET_ASSIGNMENTS\Assinment03\Question05\obj\Debug\net6.0\Question05.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOTNET_Assignments\DOTNET_ASSIGNMENTS\Assinment03\Question05\obj\Debug\net6.0\Question05.AssemblyInfoInputs.cache
+D:\DOTNET_Assignments\DOTNET_ASSIGNMENTS\Assinment03\Question05\obj\Debug\net6.0\Question05.AssemblyInfo.cs
+D:\DOTNET_Assignments\DOTNET_ASSIGNMENTS\Assinment03\Question05\obj\Debug\net6.0\Question05.csproj.CoreCompileInputs.cache
+D:\DOTNET_Assignments\DOTNET_ASSIGNMENTS\Assinment03\Question05\obj\Debug\net6.0\Question05.sourcelink.json
+D:\DOTNET_Assignments\DOTNET_ASSIGNMENTS\Assinment03\Question05\obj\Debug\net6.0\Question05.dll
+D:\DOTNET_Assignments\DOTNET_ASSIGNMENTS\Assinment03\Question05\obj\Debug\net6.0\refint\Question05.dll
+D:\DOTNET_Assignments\DOTNET_ASSIGNMENTS\Assinment03\Question05\obj\Debug\net6.0\Question05.pdb
+D:\DOTNET_Assignments\DOTNET_ASSIGNMENTS\Assinment03\Question05\obj\Debug\net6.0\Question05.genruntimeconfig.cache
+D:\DOTNET_Assignments\DOTNET_ASSIGNMENTS\Assinment03\Question05\obj\Debug\net6.0\ref\Question05.dll

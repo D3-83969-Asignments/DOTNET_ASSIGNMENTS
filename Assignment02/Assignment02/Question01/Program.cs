@@ -75,6 +75,7 @@ namespace Question01
             get { return marks; }
             set { marks = value; }
         }
+       
         public void display()
         {
             Console.WriteLine("name :" + name +", age : "+age+", gender : "+gender+", div : "+ div + ", std : "+std+" marks :"+marks  );
