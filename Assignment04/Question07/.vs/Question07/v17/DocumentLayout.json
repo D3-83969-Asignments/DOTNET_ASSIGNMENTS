@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DOTNET_Assignments\\DOTNET_ASSIGNMENTS\\Assignment04\\Question07\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44BF9A75-C88C-407E-979D-B9D1D789E8BB}|Question07.csproj|d:\\dotnet_assignments\\dotnet_assignments\\assignment04\\question07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44BF9A75-C88C-407E-979D-B9D1D789E8BB}|Question07.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E47476C-4070-4D0F-81AC-C6A24E20E35A}|..\\ClassLibrary1\\ClassLibrary1.csproj|d:\\dotnet_assignments\\dotnet_assignments\\assignment04\\classlibrary1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44BF9A75-C88C-407E-979D-B9D1D789E8BB}|Question07.csproj|d:\\dotnet_assignments\\dotnet_assignments\\assignment04\\question07\\question07.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{44BF9A75-C88C-407E-979D-B9D1D789E8BB}|Question07.csproj|solutionrelative:question07.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\DOTNET_Assignments\\DOTNET_ASSIGNMENTS\\Assignment04\\ClassLibrary1\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\ClassLibrary1\\Class1.cs",
+              "ToolTip": "D:\\DOTNET_Assignments\\DOTNET_ASSIGNMENTS\\Assignment04\\ClassLibrary1\\Class1.cs",
+              "RelativeToolTip": "..\\ClassLibrary1\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T17:52:59.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Question07",
+              "DocumentMoniker": "D:\\DOTNET_Assignments\\DOTNET_ASSIGNMENTS\\Assignment04\\Question07\\Question07.csproj",
+              "RelativeDocumentMoniker": "Question07.csproj",
+              "ToolTip": "D:\\DOTNET_Assignments\\DOTNET_ASSIGNMENTS\\Assignment04\\Question07\\Question07.csproj",
+              "RelativeToolTip": "Question07.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-21T17:50:54.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DOTNET_Assignments\\DOTNET_ASSIGNMENTS\\Assignment04\\Question07\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\DOTNET_Assignments\\DOTNET_ASSIGNMENTS\\Assignment04\\Question07\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T17:46:31.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

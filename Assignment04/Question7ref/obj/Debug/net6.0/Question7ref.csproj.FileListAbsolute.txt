@@ -1,0 +1,12 @@
+D:\DOTNET_Assignments\DOTNET_ASSIGNMENTS\Assignment04\Question7ref\bin\Debug\net6.0\Question7ref.deps.json
+D:\DOTNET_Assignments\DOTNET_ASSIGNMENTS\Assignment04\Question7ref\bin\Debug\net6.0\Question7ref.dll
+D:\DOTNET_Assignments\DOTNET_ASSIGNMENTS\Assignment04\Question7ref\bin\Debug\net6.0\Question7ref.pdb
+D:\DOTNET_Assignments\DOTNET_ASSIGNMENTS\Assignment04\Question7ref\obj\Debug\net6.0\Question7ref.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOTNET_Assignments\DOTNET_ASSIGNMENTS\Assignment04\Question7ref\obj\Debug\net6.0\Question7ref.AssemblyInfoInputs.cache
+D:\DOTNET_Assignments\DOTNET_ASSIGNMENTS\Assignment04\Question7ref\obj\Debug\net6.0\Question7ref.AssemblyInfo.cs
+D:\DOTNET_Assignments\DOTNET_ASSIGNMENTS\Assignment04\Question7ref\obj\Debug\net6.0\Question7ref.csproj.CoreCompileInputs.cache
+D:\DOTNET_Assignments\DOTNET_ASSIGNMENTS\Assignment04\Question7ref\obj\Debug\net6.0\Question7ref.sourcelink.json
+D:\DOTNET_Assignments\DOTNET_ASSIGNMENTS\Assignment04\Question7ref\obj\Debug\net6.0\Question7ref.dll
+D:\DOTNET_Assignments\DOTNET_ASSIGNMENTS\Assignment04\Question7ref\obj\Debug\net6.0\refint\Question7ref.dll
+D:\DOTNET_Assignments\DOTNET_ASSIGNMENTS\Assignment04\Question7ref\obj\Debug\net6.0\Question7ref.pdb
+D:\DOTNET_Assignments\DOTNET_ASSIGNMENTS\Assignment04\Question7ref\obj\Debug\net6.0\ref\Question7ref.dll
