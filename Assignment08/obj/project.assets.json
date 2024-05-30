@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\source\\repos\\Assignment-1\\Assignment_1\\Assignment_1_Q1.csproj",
-      "projectName": "Assignment_1_Q1",
-      "projectPath": "C:\\Users\\HP\\source\\repos\\Assignment-1\\Assignment_1\\Assignment_1_Q1.csproj",
+      "projectUniqueName": "C:\\Users\\HP\\source\\repos\\Assignment-1\\Assignment_1_2\\Assignment_1_Q3.csproj",
+      "projectName": "Assignment_1_Q3",
+      "projectPath": "C:\\Users\\HP\\source\\repos\\Assignment-1\\Assignment_1_2\\Assignment_1_Q3.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\source\\repos\\Assignment-1\\Assignment_1\\obj\\",
+      "outputPath": "C:\\Users\\HP\\source\\repos\\Assignment-1\\Assignment_1_2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
